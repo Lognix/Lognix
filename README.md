@@ -1,15 +1,15 @@
 Programmieren
-  Chrome WEB-Extensions
+   Chrome WEB-Extensions
     
-  ESP32 (C++)
+   ESP32 (C++)
     
-  ATmega + ARDUINO
+   ATmega + ARDUINO
     
-  C#
+   C#
 
 Design
-  Blender 3D
+   Blender 3D
 
-  Photoshop
+   Photoshop
 
-  Premiere pro
+   Premiere pro
