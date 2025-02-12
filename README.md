@@ -17,7 +17,7 @@
 
 ### 🔥 WEB Projects
 - [CE "YouLoop"](https://github.com/Lognix/CE_YouTube-Loop/)
-- [CE AI ToDo-Liste](https://github.com/CE_AI-ToDo-Liste/) - bald
+- [CE AI ToDo-Liste](https://github.com/Lognix/CE_AI-ToDo-Liste/) - bald
 
 ### 🎨 3D 
 - [Blender 3D](https://github.com/lognix/3D_Blender)
