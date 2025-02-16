@@ -1,4 +1,4 @@
-# Welcome to my Tech Space
+# Welcome
 
 ## 🛠️ Tech Stack
 
