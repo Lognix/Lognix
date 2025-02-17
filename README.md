@@ -13,7 +13,7 @@
 
 ### 🔥 Microcontroller Projects
 - [ESP32 WEB Wifi Configuration](https://github.com/Lognix/WIFIConfig_ESP32/)
-- [ESP8266 WEB-Massage](https://github.com/ESP8266_WEBMassage)
+- [ESP8266 WEB-Massage](https://github.com/Lognix/ESP8266_WEBMassage)
 
 ### 🔥 WEB Projects
 - [CE "YouLoop"](https://github.com/Lognix/CE_YouTube-Loop/)
